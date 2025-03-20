@@ -6,4 +6,4 @@ if macas > bananas:
 elif macas < bananas:
     print("As bananas tiveram mais vendas")
 else:
-    print("As vendas foram iguais!")
+    print("As vendas foram iguais!") 

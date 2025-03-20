@@ -5,4 +5,4 @@ if a < 0 or b <0 or c <0:
     print("Erro: os dias nao podem ser negativos")
 else:
     tempo_total = a+b+c
-    print(f"O tempo total das atividades e de {tempo_total}")
+    print(f"O tempo total das atividades e de {tempo_total}") 

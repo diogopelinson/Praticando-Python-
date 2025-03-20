@@ -4,4 +4,4 @@ if distancia <= 100:
 elif 100 < distancia <= 200:
     print("Valor do pedagio: R$ 20,00")
 else:
-    print("Valor do pedagio: R$ 30,00")
+    print("Valor do pedagio: R$ 30,00") 

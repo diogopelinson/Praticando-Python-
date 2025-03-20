@@ -5,4 +5,4 @@ if renda_mensal >= 2000 and parcela_desejada <= 0.3 * renda_mensal:
 elif renda_mensal <= 2000:
     print("Emprestimo negado: renda insuficiente.")
 else:
-    print("Emprestimo negado: parcela acima de 30% da renda.")
+    print("Emprestimo negado: parcela acima de 30% da renda.") 

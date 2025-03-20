@@ -8,6 +8,6 @@ if media >= 7:
 elif 5 <= media < 7:
     print("Recuperacao!")
 else:
-    print("Reprovado!")
+    print("Reprovado!") 
 
 
